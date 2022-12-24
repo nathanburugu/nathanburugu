@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Node.js, Next.js
 - 👯 I’m looking to collaborate on all javascript projects
 - 🤔 I’m looking for help with vue.js and Typescript 
-- 💬 Ask me about vanilla javascrit, react, node, express and typescript
+- 💬 Ask me about Vanilla JavaScript, React, node, express and typescript
 - 📫 How to reach me: 0704596380
 - 😄 Pronouns: he
 - ⚡ Fun fact: i love coding and video games
