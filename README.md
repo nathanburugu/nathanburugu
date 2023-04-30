@@ -6,7 +6,7 @@
 - 💬 Ask me about Vanilla JavaScript, React, node, express and typescript
 - 📫 How to reach me: 0704596380 call me maybe
 - 😄 Pronouns: he
-- ⚡ Fun fact: i love coding and video games
+- ⚡ Fun fact: i love coding and video games 💕🤖
 
 <!--
 **nathanburugu/nathanburugu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
