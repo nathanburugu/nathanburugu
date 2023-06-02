@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Node.js, Next JS and Vue js
+- 🔭 I’m currently working on Node.js, Next JS KOTLIN and Vue js
 - 🌱 I’m currently learning Node.js, Next.js,flutter📱, Vue and Typescript 
 - 👯 I’m looking to collaborate on all javascript projects mostly next.js
 - 🤔 I’m looking for help with vue.js and Typescript 
