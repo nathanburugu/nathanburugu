@@ -7,7 +7,7 @@
 - 📫 How to reach me: 0704596380 call me maybe code stuff only
 - 😄 Pronouns: he
 - ⚡ Fun fact: i love coding and video games 💕🤖
-- 💻 Coding Crazy
+- 💻 Coding Crazyy
 
 <!--
 **nathanburugu/nathanburugu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
