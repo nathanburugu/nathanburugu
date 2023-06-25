@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with vue.js and Typescript 
 - 💬 Ask me about Vanilla JavaScript, React, node, express and typescript
 - 📫 How to reach me: 0704596380 call me maybe code stuff only
-- 😄 Pronouns: he
+- 😄 Pronouns: he / they
 - ⚡ Fun fact: i love coding and video games 💕🤖
 - 💻 Coding Crazyy
 
