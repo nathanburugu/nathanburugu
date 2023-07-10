@@ -8,6 +8,7 @@
 - 😄 Pronouns: he / they
 - ⚡ Fun fact: i love coding and video games 💕🤖
 - 💻 Coding Crazyy
+- ASTRODREM COMING SOON!!!!!
 
 <!--
 **nathanburugu/nathanburugu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
