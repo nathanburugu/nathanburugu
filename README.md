@@ -8,6 +8,7 @@
 - 😄 Pronouns: he / they
 - ⚡ Fun fact: i love coding and video games 💕🤖
 - 💻 Coding Crazyy
+- Freelance👨🏾‍💻
 - ASTRODREM COMING SOON!!!!!
 
 <!--
