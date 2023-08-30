@@ -9,6 +9,7 @@
 - ⚡ Fun fact: i love coding and video games 💕🤖
 - 💻 Coding Crazyy
 - Freelance👨🏾‍💻
+- embedded systems 
 - ASTRODREM COMING SOON!!!!!
 
 <!--
