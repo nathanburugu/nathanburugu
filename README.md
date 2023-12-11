@@ -9,7 +9,8 @@
 - ⚡ Fun fact: i love coding and video games 💕🤖
 - 💻 Coding Crazyy
 - Freelance👨🏾‍💻
-- embedded systems 
+- embedded systems
+- I LOVE TYPESCRIPT 💖
 - ASTRODREM COMING SOON!!!!!
 
 <!--
