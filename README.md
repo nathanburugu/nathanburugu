@@ -11,7 +11,7 @@
 - Freelance👨🏾‍💻
 - embedded systems
 - I LOVE TYPESCRIPT 💖
-- CLOUDNEST COMING SOON!!!!!
+- CLOUDNEST SOLUTIONS LIMITED.
 
 <!--
 **nathanburugu/nathanburugu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
